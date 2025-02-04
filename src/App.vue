@@ -4,9 +4,7 @@
     <h1 class=" text-2xl uppercase">check Norris</h1>
     <p> parce que tes tâches ne survivent pas longtemps!</p>
   </header>
-
   <hr class="border-cyan-50/40 my-4">
-
   <main>
 
     <section class="flex justify-center gap-5 m-5 text-amber-100">
